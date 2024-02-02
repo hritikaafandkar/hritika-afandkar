@@ -1,7 +1,8 @@
 # hritika-afandkar
 My Personal Repository
 # 💫 About Me:
-🔭 I’m currently working on my 1st job<br>🌱 I’m currently learning JavaScript & React Js
+🔭 I’m currently working on my 1st job<br>🌱 I’m learning more about JavaScript & React Js<br>📕Enjoys Reading Non-Fictional books(Mostly Thriller)/Yaoi Manga<br>🎧Can't code without headphones onn<br>🎦Enjoyes watching Horrors
+
 
 
 ## 🌐 Socials:
