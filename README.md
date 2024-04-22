@@ -1,7 +1,7 @@
-# hritika-afandkar
+# hritikaafandkar
 My Personal Repository
 # 💫 About Me:
-🔭Currently working to land on my 1st job<br>🌱Learning more about JavaScript & React Js<br>📕Enjoys Reading Non-Fictional books(Mostly Thriller)/Yaoi Manga<br>🎧Can't code without headphones onn<br>🎦Enjoys watching Horrors
+🔭Currently working to land on my 1st job<br>🌱Learning more about JavaScript & React Js<br>📕Enjoys Reading Fictional books(Mostly Thriller)/Yaoi Manga<br>🎧Can't code without headphones onn<br>🎦Enjoys watching Horrors
 
 
 
